@@ -15,7 +15,7 @@
     "react-dom": "^16.11.0",
     "react-google-login": "^5.0.7",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-use-localstorage": "^3.3.2",
     "reactjs-localstorage": "0.0.8",
     "yarn": "^1.19.1"
